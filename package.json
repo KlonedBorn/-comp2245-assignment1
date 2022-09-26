@@ -1,0 +1,22 @@
+{
+  "name": "webpage",
+  "version": "1.0.0",
+  "description": "A simple webpage for comp2245",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KlonedBorn/-comp2245-assignment1.git"
+  },
+  "keywords": [
+    "comp2245"
+  ],
+  "author": "Kyle King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KlonedBorn/-comp2245-assignment1/issues"
+  },
+  "homepage": "https://github.com/KlonedBorn/-comp2245-assignment1#readme"
+}
